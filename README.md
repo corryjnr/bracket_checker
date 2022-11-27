@@ -66,8 +66,8 @@ Model-View-Controller architectural pattern.
  
 # Group members
 1. Michael Corry COM/B/01-00194/2020
-2.Luther Kaganda COM/B/01-02598/2020
-3.Steve Kahora COM/B/01-55041/2020
+2. Luther Kaganda COM/B/01-02598/2020
+3. Steve Kahora COM/B/01-55041/2020
 4. Collins Irungu COM/B/01-00143/2020
 5. John Baraka COM/B/01-00185/2020
   
