@@ -63,5 +63,11 @@ combo boxes, and tabs. Kivy has many widgets built into its framework.
 Kivy also provides a design language called KV that you can use with your Kivy applications. The KV language lets you separate
 your interface design from the application’s logic. This follows the separation of concerns principle and is part of the
 Model-View-Controller architectural pattern.
-  
+ 
+#Group members
+1. Michael Corry COM/B/01-00194/2020
+2.Luther Kaganda COM/B/01-02598/2020
+3.Steve Kahora COM/B/01-55041/2020
+4. Collins Irungu COM/B/01-00143/2020
+5. John Baraka COM/B/01-00185/2020
   
