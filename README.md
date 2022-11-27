@@ -48,7 +48,7 @@ Kivy does not attempt to use native controls or widgets. All of its widgets are 
 will look the same across all platforms. However, it also means that your app’s look and feel will differ from your user’s native
 applications. This could be a benefit or a drawback, depending on your audience.
 
-##installing kivy
+## Installing kivy
 Kivy has many dependencies, so it’s recommended that you install it into a Python virtual environment. You can use either Python’s built-in venv library or the virtualenv package. If you’ve never used a Python virtual environment before, then check out Python Virtual Environments: A Primer.
 To use your virtual environment, you need to activate it. On Mac and Linux.
 The command for Windows is similar, but the location of the activate script is inside of the Scripts folder instead of bin.
