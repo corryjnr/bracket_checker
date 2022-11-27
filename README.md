@@ -4,11 +4,11 @@ Python has a lot of GUI frameworks, but Tkinter is the only framework that’s b
 ## using widgets
 Widgets are important in Python GUI framework Tkinter. They’re the elements through which users interact with your program.the 
 following widget classes were used:
-  Label -	A widget used to display text on the screen
-  Button -	A button that can contain text and can perform an action when clicked
-  Entry -	A text entry widget that allows only a single line of text
-  Text -	A text entry widget that allows multiline text entry
-  Frame -	A rectangular region used to group related widgets or provide padding between widgets
+  Label -	A widget used to display text on the screen.  
+  Button -	A button that can contain text and can perform an action when clicked.  
+  Entry -	A text entry widget that allows only a single line of text.  
+  Text -	A text entry widget that allows multiline text entry.  
+  Frame -	A rectangular region used to group related widgets or provide padding between widgets.
 
 ## Using Events and Event Handlers
 When you create a Tkinter application, you must call window.mainloop() to start the event loop. During the event loop, your 
